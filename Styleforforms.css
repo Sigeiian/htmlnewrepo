@@ -1,0 +1,60 @@
+body{
+    background-color: cadetblue;
+}
+
+
+
+
+.Srf{
+    text-align: center;
+    color: darkturquoise;
+    font-family: "DejaVu Serif Condensed";
+    background-color: burlywood;
+    background-size: contain;
+
+}
+.form{
+
+    text-align: center;
+
+}
+.fname{
+    background-size: 10px;
+
+    text-align: center;
+    color: darkmagenta;
+}
+.lname{
+
+    text-align: center;
+    color: blueviolet;
+}
+.DoR{
+
+    text-align: center;
+    color: slateblue;
+}
+.emailaddress{
+
+    color: cornflowerblue;
+}
+.Password{
+
+    color: mediumslateblue;
+
+}
+.Register{
+
+
+    color: mediumpurple;
+}
+.select{
+    text-align: center;
+    color: slateblue;
+}
+.image{
+    text-align: center;
+    color: lightseagreen;
+}
+
+

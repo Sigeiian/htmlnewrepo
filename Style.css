@@ -1,0 +1,59 @@
+.fruits{
+    border: 2px solid #d5cc11;
+    text-align: center;
+    background-color: rgba(255, 170, 13, 0.71);
+    padding: 20px;
+    margin: 20px;
+    color: cornflowerblue;
+}
+.cars{
+    border: 2px solid rgba(14, 15, 16, 0.13);
+    text-align: center;
+    background-color: slategray;
+    padding: 20px;
+    margin: 20px;
+    color: #1a1a1e;
+}
+.FRUITS{
+    border: 2px solid gold;
+    text-align: center;
+    background-color: rgba(168, 19, 6, 0.75);
+    padding: 20px;
+    margin: 20px;
+    color: deepskyblue;
+}
+img{
+    height: 400px;
+    width: 300px;
+}
+iframe{
+    height: 255px;
+    width: 500px;
+}
+#Kenya{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: darkslategrey;
+}
+#Egypt{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid darkorange;
+    background-color: darkgoldenrod;
+}
+#Mali{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid saddlebrown;
+    background-color: sandybrown;
+}
+.Africancountries{
+    color: saddlebrown;
+    border: 1px solid sandybrown;
+    background-color: sandybrown;
+    text-align: center;
+}
